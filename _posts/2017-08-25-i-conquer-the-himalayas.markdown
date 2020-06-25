@@ -11,43 +11,43 @@ author: Lee je hun # Add name author (optional)
 ---
 NC 다이노스
 
-![ncdinos](/assets/img/다이노스.jpg)
+![ncdinos]({{site.baseurl}}/assets/img/다이노스.jpg)
 
 Sk 와이번스
 
-![Skwyverns](/assets/img/와이번스.jpg)
+![Skwyverns]({{site.baseurl}}/assets/img/와이번스.jpg)
 
 Kia 타이거즈
 
-![kiatigers](/assets/img/타이거즈.jpg)
+![kiatigers]({{site.baseurl}}/assets/img/타이거즈.jpg)
 
 키움 히어로즈
 
-![kiwoomheroes](/assets/img/히어로즈.jpg)
+![kiwoomheroes]({{site.baseurl}}/assets/img/히어로즈.jpg)
 
 Lg 트윈스
 
-![lgtwins](/assets/img/트윈스.jpg)
+![lgtwins]({{site.baseurl}}/assets/img/트윈스.jpg)
 
 한화 이글스
 
-![hanwhaeagles](/assets/img/이글스.jpg)
+![hanwhaeagles]({{site.baseurl}}/assets/img/이글스.jpg)
 
 롯데 자이언츠
 
-![lottegiants](/assets/img/자이언츠.jpg)
+![lottegiants]({{site.baseurl}}/assets/img/자이언츠.jpg)
 
 삼성 라이온즈
 
-![samsunglions](/assets/img/라이온즈.jpg)
+![samsunglions]({{site.baseurl}}/assets/img/라이온즈.jpg)
 
 KT 위즈
 
-![ktwiz](/assets/img/위즈.jpg)
+![ktwiz]({{site.baseurl}}/assets/img/위즈.jpg)
 
 두산베어스
 
-![doosanbears](/assets/img/베어스.jpg)
+![doosanbears]({{site.baseurl}}/assets/img/베어스.jpg)
 
 총 10개 구단이 있습니다
 
