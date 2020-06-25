@@ -12,8 +12,8 @@ author: Lee Je Hun # Add name author (optional)
 야구에 대해 설명드리겠습니다.
 ---
 ① 야구의 역사
+![history]({{site.baseurl}}/assets/img/야구역사.jpg)
 
-​
 
 야구의 기원에 대해서는 세 가지 설이 있습니다. 첫번째는 13세기에 영국에서 시작된  라운더스
 
@@ -30,6 +30,7 @@ author: Lee Je Hun # Add name author (optional)
 배트와 공으로 하는 경기가 있었는데 이것을 모방한 것이 야구라는 설도 있습니다.
 
 ② 경기장 규격과 크기
+![Stadium]({{site.baseurl}}/assets/img/야구장.jpg)
 
 야구장은 ( 내야 , 외야 , 파울그라운드 , 관람석 , 불펜 , 더그아웃 ) 으로 되어 있다.
 
@@ -48,12 +49,14 @@ author: Lee Je Hun # Add name author (optional)
 1루 , 2루 , 3루는 캔버스백을 고정시켜 표시합니다.
 
 ③ 야구공의 크기와 무게
+![ball]({{site.baseurl}}/assets/img/야구공.jpg)
 
 야구공의 크기는 둘레로 22.9 ~ 23.5CM이며
 
  야구공의 무게는 141.7 ~148.8G입니다.
  
  ④ 야구배트의 크기와 무게
+ ![Bat]({{site.baseurl}}/assets/img/야구배트.jpg)
 
 야구 배트는 투수가 던진 공을 치기 위해 타자가 쓰는 방망이로, 나무배트와 금속배트의 2가지가 있으나,
 
@@ -64,6 +67,7 @@ author: Lee Je Hun # Add name author (optional)
  길이는 106.8CM 이하, 지름은 7CM 이하, 무게는 900G 이하로 제한되어 있습니다
 
 ⑤ 야구 경기 규칙
+![stadium]({{site.baseurl}}/assets/img/구장.jpg)
 
 야구 경기는 기본적으로 9회까지 진행이 됩니다. 원정팀이 초 공격을 하고, 홈팀이 말공격을 합니다.
 
