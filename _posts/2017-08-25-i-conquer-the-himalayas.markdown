@@ -15,7 +15,7 @@ NC 다이노스
 
 Sk 와이번스
 
-![Skwyverns]({{site.baseurl}}/assets/img/와이번스.jpg)
+![Skwyverns]({{site.baseurl}}/assets/img/와이번.jpg)
 
 Kia 타이거즈
 
