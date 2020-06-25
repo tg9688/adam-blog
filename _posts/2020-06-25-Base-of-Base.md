@@ -7,7 +7,7 @@ img: photo_1587471516_285592c1e1cebaa8f62310134a3da29c20200421211829.jpg # Add i
 tags: [BASEBALL, DESCRIPTION]
 author: Lee Je Hun # Add name author (optional)
 ---
-![base](/assets/img/photo_1592651879_4b0aaf9ae7388b8844544edfffa1720420200620201242.jpg)
+![base]({{site.baseurl}}/assets/img/photo_1592651879_4b0aaf9ae7388b8844544edfffa1720420200620201242.jpg)
 
 야구에 대해 설명드리겠습니다.
 ---
