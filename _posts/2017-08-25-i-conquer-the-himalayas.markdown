@@ -7,13 +7,49 @@ img: post-1.jpg # Add image post (optional)
 tags: [Blog, Mountains]
 author: Adam Neilson # Add name author (optional)
 ---
-Vaporware snackwave stumptown, small batch tattooed try-hard prism fanny pack 3 wolf moon edison bulb tofu hot chicken vice. Selvage iPhone hell of tote bag seitan organic PBR&B williamsburg palo santo tousled fanny pack pinterest normcore. Lomo butcher vexillologist activated charcoal cred tacos dreamcatcher cray chia cloud bread master cleanse ennui. Copper mug hella iceland occupy venmo. Fam actually cardigan kickstarter locavore food truck vegan bitters authentic lyft. Vaporware listicle keffiyeh adaptogen. Cloud bread stumptown swag la croix polaroid pickled. Next level yuccie four dollar toast polaroid. Portland chicharrones craft beer helvetica 3 wolf moon.
-
-Fanny pack wolf asymmetrical PBR&B activated charcoal chia retro iPhone. Everyday carry artisan live-edge bespoke ramps. Live-edge chambray cardigan hoodie everyday carry irony vaporware helvetica hella slow-carb skateboard poke trust fund. Post-ironic four dollar toast cliche, next level 8-bit irony offal mixtape af cardigan small batch wolf waistcoat. Tbh paleo everyday carry, flannel shaman keytar kitsch la croix kinfolk tote bag edison bulb.
-
-> Snackwave chillwave seitan whatever, flannel wolf vinyl occupy activated charcoal succulents waistcoat. Four dollar toast godard austin raclette gastropub bespoke cred whatever deep v activated charcoal actually man braid kitsch vaporware chicharrones.
-
-Taxidermy shaman irony williamsburg bespoke. Freegan ugh mumblecore selfies, shabby chic neutra everyday carry. Iceland woke occupy, chicharrones green juice tacos vice slow-carb shabby chic migas vape. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art. Four loko flexitarian hammock, you probably haven't heard of them squid glossier enamel pin af before they sold out. Jianbing narwhal chartreuse helvetica 3 wolf moon quinoa. 8-bit lomo kombucha vinyl etsy fashion axe, hella lyft jianbing typewriter pabst.
+한국 야구를 KBO(Korea Baseball Organization)이라고 하며 야구팀에는 
+---
+NC 다이노스
+---
+![ncdinos](/assets/img/common.jpg)
+---
+Sk 와이번스
+---
+![Skwyverns](/assets/img/782686_360081_1552_59_20131112003541.jpg)
+---
+Kia 타이거즈
+---
+![kiatigers](/assets/img/common (1).jpg)
+---
+키움 히어로즈
+---
+![kiwoomheroes](/assets/img/common (2).jpg)
+---
+Lg 트윈스
+---
+![lgtwins](/assets/img/common (3).jpg)
+---
+한화 이글스
+---
+![hanwhaeagles](/assets/img/common (4).jpg)
+---
+롯데 자이언츠
+---
+![lottegiants](/assets/img/common (5).jpg)
+---
+삼성 라이온즈
+---
+![samsunglions](/assets/img/common (6).jpg)
+---
+KT 위즈
+---
+![ktwiz](/assets/img/common (7).jpg)
+---
+두산베어스
+---
+![doosanbears](/assets/img/common (8).jpg)
+---
+총 10개 구단이 있습니다
 
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
 
