@@ -10,7 +10,7 @@ author: # Add name author (optional)
 
 메이저리그는 내셔널 리그와 아메리칸 리그 두 개의 리그로 나누어져 있습니다.
 
-![major]({{site.baseurl}}/assets/img/메이저)
+![major]({{site.baseurl}}/assets/img/메이저.jpg)
 
 내셔널 리그 기록은
 
