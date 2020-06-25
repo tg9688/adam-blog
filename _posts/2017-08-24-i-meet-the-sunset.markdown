@@ -1,28 +1,23 @@
 ---
 layout: post
-title:  I meet the sunset
+title:  Major Baseball
 date:   2017-08-24 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: post-2.jpg # Add image post (optional)
-tags: [Blog, Sunset]
+img: 류현진.jpg # Add image post (optional)
+tags: [BASEBALL, MAJOR]
 author: # Add name author (optional)
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+메이저리그는 내셔널 리그와 아메리칸 리그 두 개의 리그로 나누어져 있습니다.
 
-Jekyll also offers powerful support for code snippets:
+![major]({{site.baseurl}}/assets/img/메이저)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+내셔널 리그 기록은
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+![national]({{site.baseurl}}/assets/img/메이저기록.jpg)
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+아메리칸 리그 기록은 
+
+![american](({{site.baseurl}}/assets/img/메이저기록2.jpg)
+
+
