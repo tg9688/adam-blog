@@ -11,43 +11,43 @@ author: Lee je hun # Add name author (optional)
 ---
 NC 다이노스
 
-![ncdinos](/assets/img/common.jpg)
+![ncdinos](/assets/img/다이노스.jpg)
 
 Sk 와이번스
 
-![Skwyverns](/assets/img/782686_360081_1552_59_20131112003541.jpg)
+![Skwyverns](/assets/img/와이번스.jpg)
 
 Kia 타이거즈
 
-![kiatigers](/assets/img/common (1).jpg)
+![kiatigers](/assets/img/타이거즈.jpg)
 
 키움 히어로즈
 
-![kiwoomheroes](/assets/img/common (2).jpg)
+![kiwoomheroes](/assets/img/히어로즈.jpg)
 
 Lg 트윈스
 
-![lgtwins](/assets/img/common (3).jpg)
+![lgtwins](/assets/img/트윈스.jpg)
 
 한화 이글스
 
-![hanwhaeagles](/assets/img/common (4).jpg)
+![hanwhaeagles](/assets/img/이글스.jpg)
 
 롯데 자이언츠
 
-![lottegiants](/assets/img/common (5).jpg)
+![lottegiants](/assets/img/자이언츠.jpg)
 
 삼성 라이온즈
 
-![samsunglions](/assets/img/common (6).jpg)
+![samsunglions](/assets/img/라이온즈.jpg)
 
 KT 위즈
 
-![ktwiz](/assets/img/common (7).jpg)
+![ktwiz](/assets/img/위즈.jpg)
 
 두산베어스
 
-![doosanbears](/assets/img/common (8).jpg)
+![doosanbears](/assets/img/베어스.jpg)
 
 총 10개 구단이 있습니다
 
