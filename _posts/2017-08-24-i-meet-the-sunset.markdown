@@ -18,6 +18,6 @@ author: # Add name author (optional)
 
 아메리칸 리그 기록은 
 
-![american](({{site.baseurl}}/assets/img/메이저기록2.jpg)
+![american]({{site.baseurl}}/assets/img/메이저기록2.jpg)
 
 
